@@ -9,7 +9,7 @@ O estudo analisa o modelo de impacto bidirecional do ensino de robótica, mitiga
 
 Neste repositório, disponibilizamos exclusivamente os instrumentos de coleta e os dados brutos resultantes da pesquisa. Para contemplar o impacto bidirecional e o diagnóstico regional, o estudo foi dividido em três frentes.
 
-Nota: Os scripts de análise espacial e renderização não estão inclusos neste repositório.
+>Nota: Os scripts não estão inclusos neste repositório.
 
 ### 1. Instrumentos de Pesquisa (Questionários)
 * Questionario_Ex_Alunos.pdf: Instrumento aplicado aos jovens que participaram das oficinas e foram diretamente atendidos pelo projeto.
