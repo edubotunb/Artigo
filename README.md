@@ -28,8 +28,7 @@ Em estrita conformidade com as diretrizes de ética em pesquisa, todos os dados 
 
 Se você utilizar estes dados em sua pesquisa, por favor, cite nosso artigo:
 
-> [Inserir o Nome dos Autores]. "[Inserir o Título do Seu Artigo Aqui]". [Inserir o nome da Conferência/Revista, ex: IEEE Xplore], 2026.
-
+> França, J. P. M. et al. "Edubot: Evaluating 12 Years of Educational and Professional Impacts of Educational Robotics". In: Workshop on Robotics in Education (WRE), João Pessoa, Brasil, 2026.
 ---
 ---
 
@@ -63,4 +62,4 @@ In strict compliance with research ethics guidelines, all data provided in this 
 
 If you use this dataset in your research, please cite our paper:
 
-> [Insert Authors' Names]. "[Insert Your Paper Title Here]". [Insert Conference/Journal Name, e.g., IEEE Xplore], 2026.
+> França, J. P. M. et al. "Edubot: Evaluating 12 Years of Educational and Professional Impacts of Educational Robotics". In: Workshop on Robotics in Education (WRE), João Pessoa, Brasil, 2026.
