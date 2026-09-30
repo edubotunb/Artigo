@@ -13,8 +13,8 @@ Neste repositório, disponibilizamos exclusivamente os instrumentos de coleta e 
 
 ### 1. Instrumentos de Pesquisa (Questionários)
 * Questionario_Ex_Alunos.pdf: Instrumento aplicado aos jovens que participaram das oficinas e foram diretamente atendidos pelo projeto.
-* Questionario_Ex_Membros.pdf: Instrumento aplicado aos universitários que atuaram como mentores e membros da equipe do projeto.
-* Questionario_Ensino_Medio_DF.pdf: Instrumento de diagnóstico aplicado a estudantes de ensino médio do Distrito Federal em geral.
+* Questionario_Ex_Membros.pdf: Instrumento aplicado aos universitários que atuaram como instrutores e membros da equipe do projeto.
+* Questionario_Ensino_Medio_DF.pdf: Instrumento de diagnóstico aplicado a estudantes de ensino médio do Distrito Federal em geral presentes em ambientes frequentados pelo projeto: feiras, workshops, apresentações, escolas parceiras e instituições parceiras.
 
 ### 2. Conjuntos de Dados (Respostas)
 * Respostas_Ex_Alunos_Anonimizadas.csv: Dados brutos tabulados do primeiro público.
